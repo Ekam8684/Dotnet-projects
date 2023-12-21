@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ShopProjectOne
+</name>
+</assembly>
+<members>
+<member name="P:ShopProjectOne.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ShopProjectOne.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ShopProjectOne.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.CookiesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.DrinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.PulsesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.SoapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.CookiesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.DrinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.PulsesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.SoapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.CookiesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.DrinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.PulsesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet.SoapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSetTableAdapters.CookiesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSetTableAdapters.DrinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSetTableAdapters.PulsesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSetTableAdapters.SoapTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ShopProjectOne.ShopDatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ShopProjectOne.ShopDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ShopProjectOne.ShopDatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ShopProjectOne.ShopDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ShopProjectOne.ShopDatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ShopProjectOne.ShopDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ShopProjectOne.ShopDatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ShopProjectOne.ShopDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(ShopProjectOne.ShopDatabaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ShopProjectOne.ShopDatabaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

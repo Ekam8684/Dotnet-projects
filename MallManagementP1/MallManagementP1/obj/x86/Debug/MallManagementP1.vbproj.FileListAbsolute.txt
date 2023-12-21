@@ -1,0 +1,23 @@
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\bin\Debug\MallManagementP1.exe
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\bin\Debug\MallManagementP1.pdb
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\bin\Debug\MallManagementP1.xml
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.Form1.resources
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.Resources.resources
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.vbproj.GenerateResource.Cache
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.exe
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.xml
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.pdb
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.Form2.resources
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.Showroom.resources
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.cafe.resources
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.cinema.resources
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.Parlour.resources
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.SignIn.resources
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\bin\Debug\MallManagement.accdb
+C:\Users\Ekam\documents\visual studio 2010\Projects\MallManagementP1\MallManagementP1\bin\Debug\MallManagementP1.exe.config
+C:\Users\Ekam\Documents\Visual Studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.vbproj.AssemblyReference.cache
+C:\Users\Ekam\Documents\Visual Studio 2010\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.vbproj.CoreCompileInputs.cache
+F:\Projects\MallManagementP1\MallManagementP1\bin\Debug\MallManagementP1.exe.config
+F:\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.exe
+F:\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.xml
+F:\Projects\MallManagementP1\MallManagementP1\obj\x86\Debug\MallManagementP1.pdb
